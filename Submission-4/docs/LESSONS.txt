@@ -1,0 +1,20 @@
+GROUP 6
+
+a) Positives
+
+	> The whole experience of meeting new people and developing something together had the sort of feel we beleive a company would offer.
+	> Learnt a lot from our evaluator(Anubhav Chaturvedi) who helped us in improving the overall manner in which we were supposed to write and present the software.
+	> The majority of the group pitched in with ideas in the design stage.
+	> Learnt the importance of working as a group.
+	> Handled submission deadlines positively and were focused on doing the best we could at all times.
+	> Continuously pushed ourselves to improve and perfect whatever we had already built.
+	
+b) Negatives
+	
+	> Not everyone was well-versed with github.
+	> The need to physically meet up to discuss and allot work and deal with issues was felt although there were provisions to do the same online.
+
+c) What would we do differently the next time?
+	
+	> Try coding up the basic code structure in the initial few days.
+	> Use GitHub and Specification docs more than we did this time around, to improve overall contribution from everyone.
